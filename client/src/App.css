@@ -103,6 +103,18 @@
   font-size: 0.95em;
 }
 
+.hint-message {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  padding: 0.9rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #1976d2;
+  text-align: center;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
 /* Welcome Container */
 .welcome-container {
   background: white;
